@@ -196,6 +196,7 @@ If a player is convinced that all the remaining players are human (or if they ar
 
 The helicopter requires two people to pilot, so if only one player remains, they are stranded in the base.
 
+If a player starts their turn and only two players remain, both players have no choice but to board the helicopter, whether they trust each other or not.
 
 ### Disease
 
@@ -203,7 +204,7 @@ When a player draws the Joker (disease card) from the draw pile, their turn is i
 
 If a player only has one card, it is placed face down on the discard pile; that player is dead. No-one is allowed to see that card, nor should the player announce whether or not they were an alien. The answer to that mystery goes with them to their grave!
 
-If a player starts their turn and only two players remain, both players have no choice but to board the helicopter, whether they trust each other or not.
+When the disease card is resolved, place it aside in its own discard pile. When the discard deck is shuffled to make a new draw deck the disease card should be placed in the face-up discard pile; it won't come into play again until the next time this happens.
 
 ### Combat
 
