@@ -37,14 +37,15 @@ The Thing is played with multiple standard decks of playing cards. The dealer mu
 - Red number cards, no Aces shuffled (alien weapon cards) (shuffled)
 - 1 Joker (disease card)
 
-Firstly, determine how many starting players should be aliens, and gather this number of red Queen cards (returning the remainder to their boxes). You should tailor this number to your group's preferences. As a recommended starting point, take one Queen for a four-player game, then add another Queen for every two players above that number.
+Firstly, determine how many starting players should be aliens, and gather this number of red Queen cards (returning the remainder to their boxes). You should tailor this number to your group's preferences. As a recommended starting point, take
+the minimum number from the second column, then up this if you feel the balance is too far towards the humans:
 
 | Number of Players  | Number of Queens |
 | ------------------ | ---------------- |
 | 4-5                | 1                |
-| 6-8                | 2                |
-| 9-10               | 3                |
-| 11-12              | 4                |
+| 6-8                | 1-2              |
+| 9-10               | 2-3              |
+| 11-12              | 2-4              |
 
 > For a more chaotic game, it can be more interesting to randomise the number of starting Queens there are such
 > that no player knows the exact number. To do this, add an extra red Queen, along with a random black
@@ -68,7 +69,13 @@ Create a discard pile and place facing upwards in the centre of the table. This 
 
 Return the remaining cards to the box; they won't be used.
 
-> Note that these setup rules should be considered more of a guideline than a hard and fast set of rules. Over time you should experiment with these rules to tailor the game to your group. For example, try and balance the number of red cards if you feel the aliens are at an advantage/disadvantage. Consider including a random chance of some black face cards into the initial deal if you want to allow the players to perform a blood test during the first round. If your group doesn't enjoy the disease mechanic, feel free to leave the joker out of the discard pile.
+Finally play a round where each player just replenishes their hand up to five cards. (See section 'Replenishing Player's Hand' below.)
+
+> Note that these setup rules should be considered more of a guideline than a hard and fast set of rules. Over time you
+> should experiment with these rules to tailor the game to your group. For example, try and balance the number of red
+> cards if you feel the aliens are at an advantage/disadvantage. Consider including a random chance of some black face
+> cards into the initial deal if you want to allow the players to perform a blood test during the first round. If your
+> group doesn't enjoy the disease mechanic, feel free to leave the Joker out of the discard pile.
 
 ## Play
 
@@ -118,18 +125,19 @@ As their action, a player can offer a card up for trade. The player announces th
 
 Note, that at this stage, no player is obligated to go through with the trade, and either player can back out at any stage in the process. (This can be used to try and sniff out an alien; i.e. if they are willing to make a trade that has seemingly little benefit to them, it could be a sign that they are trying to infect you.) If an accepted offer falls through in this way, the original player may then choose the next offer in turn.
 
-When the trade goes through, without showing the cards to anyone else, the players exchange cards and add them to their hands. You can only trade a card that has the value which you offered during the bidding. It's entirely permissible for you to lie about the value of the card whilst bidding (e.g. offer a 10 which you don't have). However, you are not permitted to then go through with the exchange and give a card of a different value. If you do not have the card you originally offered, you must decline to complete the offer. The one exception to this rule is the red Queen card. It is permissible to pretend that the red Queen is a 10 for the sake of trading.
+When the trade goes ahead, the players exchange cards and add them to their hands without showing them to anyone else. You can only trade a card that has the value which you offered during the bidding. It's entirely permissible for you to lie about the value of a card while bidding (e.g. offer a 10 which you don't have). However, you can not then go through with the exchange with a card of a different value. If you do not have the card you originally offered, you must decline to complete the offer. The one exception to this rule is the red Queen card. It is permissible to pretend that the red Queen is a 10 or a blood test card for the sake of trading.
 
-As always it's important to maintain the rule that _an infected player can never be disinfected_. To this end, an alien player with a single red card can not complete an exchange in which they hand over that card.
+As always, it's crucial that _an infected player can never be disinfected_. To this end, an alien player with a single red card can not complete an exchange in which they hand over that card.
 
-If no exchanges are made it's the end of the player's turn.
+If the players fail to complete an exchange, then the turn ends.
 
 > Example:
 >
 > It's Christina's turn. She announces to the group "I'm offering up a 9 for trade."
 >
 > Dave has no intention of taking a card from Christina; suspecting that she's infected. He offers a
-> 3 (which he doesn't have) in return, hoping she will accept the offer and cast further suspicion among the group.
+> 3 (which he doesn't have) in return, hoping she will accept the offer and cast further suspicion among
+> the group.
 >
 > Erica has another 9. Christina's 9 would make a pair and thus make her hand very powerful. She offers
 > an 8 in return.
@@ -146,15 +154,22 @@ If no exchanges are made it's the end of the player's turn.
 > Christina chooses to accept Alice's offer. However, Alice can't give her red 8 as it would disinfect her,
 > so she declines the exchange.
 >
-> Cristina now turns to Erica. Erica offers her 8 face-down and Christing passes her 9 in return. The exchange is completed.
+> Cristina now turns to Erica. Erica offers her 8 face-down, and Christing passes her 9 in return. The
+> exchange is completed.
+
+> Optionally, your game can allow the trading of multiple cards. When doing this you can offer up any number of
+> cards from your hand, except for the last one (again, maintaining that _an infected player can never be disinfected_). Counteroffers must be for the same number of cards as the original offer.
+> 
+> Trading multiple cards is generally a dangerous move, but it can be fun. For this reason we only
+> recommend it for advanced players.
 
 #### Blood Test
 
-If the player has any black picture cards they can play them to blood test another player; attempting to reveal whether or not that player is an alien. To take this action the player nominates another player, and places their blood test cards face up. They can play as many cards as they have, except they are not allowed to see the player's last card.
+If the player has any black picture cards, they can play them to blood test another player. Through this action players attempt to reveal whether or not the target is an alien. To take this action the player nominates another player, and places their blood test cards face up. They can play as many cards as they have, except they are never allowed to see the player's last card.
 
 The target player now presents their hand face down to the player taking the action, who takes as many cards as the number of blood test cards they played, looks at them then returns them to the target's hand.
 
-At this stage, the player is allowed (but is not obligated) to state whether or not they saw a red card. They are not however permitted to reveal the value of the cards.
+At this stage, the player is allowed (but is not obligated) to state whether or not they saw a red card. They are not permitted to reveal the value of the cards.
 
 > Example:
 >
@@ -181,11 +196,14 @@ If a player is convinced that all the remaining players are human (or if they ar
 
 The helicopter requires two people to pilot, so if only one player remains, they are stranded in the base.
 
+
 ### Disease
 
 When a player draws the Joker (disease card) from the draw pile, their turn is immediately over and the disease spreads. Except for the player who drew the card (starting with the player to the left of that player) each player will lose a card. They do this by holding back a card (again, enforcing the rule _an infected player can never be disinfected_), presenting their hand to the player on their left who takes a card at random. They will then place this card face down on the discard pile, before presenting their hand to the player on their left.
 
-If a player only has one card, it is placed face down on the discard pile and that player is dead.
+If a player only has one card, it is placed face down on the discard pile; that player is dead. No-one is allowed to see that card, nor should the player announce whether or not they were an alien. The answer to that mystery goes with them to their grave!
+
+If a player starts their turn and only two players remain, both players have no choice but to board the helicopter, whether they trust each other or not.
 
 ### Combat
 
@@ -193,17 +211,18 @@ Combat is initiated whenever a player spends their action to nominate a target a
 
 When placing attack cards, cards of the same value played in a pair are worth three times the value of the card. (e.g. a pair of threes is worth nine in total.)
 
-In combat, a red Queen is treated like a 10, so it has a value of ten and can be paired with black or red 10s. Black picture cards (blood tests) and Aces (thefts) are only worth one in combat and can only be paired with equivalent cards (e.g. Aces can only be paired with other Aces).
+In combat, a red Queen has a value of ten, though it doesn't pair with other 10 cards. (If you like, you can optionally make an exception to this rule. However the aliens tend to get a much better selection of combat cards already, so this could tip the balance too far in their favour.) Other picture cards (blood tests) and Aces (thefts) are only worth one in combat and can only be paired with equivalent cards (e.g. Aces can only be paired with other Aces).
 
 The combat phase completes when that team adds cards that are greater than the opponent's pool. It is now the opposing team's combat phase, and they must place cards to beat their opponent's combat score.
 
 At any point, a player can join the side who is currently in their combat phase and are adding cards to their pool. To do this they place their cards in the pool and their value is added to the combat score. This player is now engaged in combat until the end and can never change sides.
 
-Whenever a player places the last card in their hand, they are dead and are out of the game. Player's should be aware of this, and attempt to solicit help from the other players (who are not already engaged in the combat) before placing this card.
+Whenever a player places the last card in their hand, they are dead and are out of the game. Player's should be aware of this, and attempt to solicit help from the other players (who are not already engaged in the combat) before placing this card. When a player dies, no more players are allowed to join combat on their side.
 
 Note, that only cards played together as a pair have the bonus value, so a card can not be paired with a previously played card of the same value to get the bonus value.
 
-Combat is the only exception to the rule that _an infected player can never be disinfected_. It is permitted for a player to add their last red card into the combat pool at any stage. From this stage on, the player has been revealed as an alien (which the other players should take note of!).
+Combat is the only exception to the rule that _an infected player can never be disinfected_. It is permitted for a player to add their last red card into the combat pool at any stage. From this stage on, that player's identity as
+an alien has been revealed (which the other players should note!).
 
 > Example:
 >
@@ -237,7 +256,7 @@ Combat is the only exception to the rule that _an infected player can never be d
 
 ## Ending the Game
 
-There are several ways in which the game can end, and it can be unclear the extent to which the team has won. If the aliens board the helicopter, they can end up spreading the infection throughout the planet, so this can be seen as the ultimate alien victory.
+There are several ways in which the game can end, and it can be unclear the extent to which the team has won. If the aliens board the helicopter, they can end up spreading the infection throughout the planet. This can be seen as the ultimate alien victory.
 
 If no humans die, and they all end up boarding the helicopter, this can be seen as the ultimate human victory.
 
