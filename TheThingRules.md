@@ -29,23 +29,24 @@ The aliens win the game if they manage to kill all the other players or convince
 
 ## Set-Up
 
-The Thing is played with multiple standard decks of playing cards. The dealer must build the deck accordingly for the number of players. Start by sorting the decks into the following piles, and return everything else to the boxes:
+The Thing is played with multiple standard decks of playing cards. Firstly, determine how many starting players should be aliens and how many decks are required. You should tailor the number of queens to your group's preferences. As a recommended starting point, take the minimum number from the second column, then up this if you feel the balance is too far towards the humans:
+
+| Number of Players  | Number of Queens | Number of Decks |
+| ------------------ | ---------------- | --------------- |
+| 4-5                | 1                | 2               |
+| 6-8                | 1-2              | 2               |
+| 9-10               | 2-3              | 3               |
+| 11-12              | 2-4              | 4               |
+
+The dealer must now build the deck accordingly for the number of players. Start by sorting the decks into the following piles, and return everything else to the boxes:
 
 - Red Queens (queen alien cards)
 - Black face cards (blood test cards)
 - Black number cards and Aces shuffled (weapon and steal cards)
-- Red number cards, no Aces shuffled (alien weapon cards) (shuffled)
+- Red number cards and Aces shuffled (alien weapon and steal cards)
 - 1 Joker (disease card)
 
-Firstly, determine how many starting players should be aliens, and gather this number of red Queen cards (returning the remainder to their boxes). You should tailor this number to your group's preferences. As a recommended starting point, take
-the minimum number from the second column, then up this if you feel the balance is too far towards the humans:
-
-| Number of Players  | Number of Queens |
-| ------------------ | ---------------- |
-| 4-5                | 1                |
-| 6-8                | 1-2              |
-| 9-10               | 2-3              |
-| 11-12              | 2-4              |
+Now gather the required number of red Queen cards (returning the remainder to their boxes).
 
 > For a more chaotic game, it can be more interesting to randomise the number of starting Queens there are such
 > that no player knows the exact number. To do this, add an extra red Queen, along with a random black
@@ -60,7 +61,7 @@ Deal two more cards per player from the black number cards, so each player shoul
 Create and shuffle a draw pile with:
 
 - 3 black number cards per player
-- 20 red number cards
+- 22, plus half the number of players (rounded down), red number cards
 
 Create a discard pile and place facing upwards in the centre of the table. This pile should contain one black face card per player.
 
